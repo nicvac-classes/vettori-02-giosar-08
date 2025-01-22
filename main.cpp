@@ -1,11 +1,23 @@
-#include <iostream>
-using namespace std;
 
 int main() {
-    string nome;
-    cout << "Inserisci il tuo nome: ";
-    cin >> nome;
-    cout << "Ciao " <<nome<< "!" << endl;
-}
+    int a, b, i;
+    cout << "numero studenti"
+    cin >> b;
+    a = b;
 
-//LEGGERE LE ISTRUZIONI NEL FILE README.md
+    string N[a]
+    int v[a], as[a];
+
+    for (i = 0; i < a; i++) {
+        cout << "inserisci nome"
+        cin>> n[i]
+        cout << "inserisci voto" 
+        cin >> v[i];
+        cout << "inserisci assenze" 
+        cin >> as[i];
+    }
+    for (i = 0; i < a; i++) {
+        cout << "nome studente" << endl;
+        cout << N[i] << endl;
+        cout << "lo studente " << N[i] << " ha " << v[i] << " di media" << 
+    }
